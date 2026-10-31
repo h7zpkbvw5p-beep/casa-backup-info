@@ -1,2 +1,4 @@
-# casa-backup-info
-Public information, privacy policy and terms for Casa del Sabor Backup. No backups or private application data.
+# Casa del Sabor Backup — application information
+
+Static application description, privacy policy and terms. No backups, credentials, business records or private application source code.
+
